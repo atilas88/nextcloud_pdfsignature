@@ -1,0 +1,311 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Nextcloud package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Orelvys Garcia Guzman <orelvys.gg@avangenio.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextcloud 3.14159\n"
+"Report-Msgid-Bugs-To: translations\\@example.com\n"
+"POT-Creation-Date: 2024-07-17 11:39-0400\n"
+"PO-Revision-Date: 2024-07-17 11:51-0400\n"
+"Last-Translator: Orelvys Garcia Guzman <orelvys.gg@avangenio.com>\n"
+"Language-Team: Spanish - Spain <orelvys.gg@avangenio.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: Gtranslator 41.0\n"
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/lib/Service/SignatureService.php:136
+msgid "This document don't have signatures"
+msgstr "Este documento no tiene firmas"
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/lib/Service/SignatureService.php:215
+msgid "Bad HTTP method"
+msgstr "Método http incorrecto"
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/lib/Settings/AdminSection.php:35
+msgid "Signature settings"
+msgstr "Configuraciones de firma"
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialAppInfoFakeDummyForL10nScript.php:2
+msgid "Pdf Signature"
+msgstr "Firma de Pdf"
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialAppInfoFakeDummyForL10nScript.php:3
+msgid "Pdf digital signature integration"
+msgstr "Integración de firma digital de Pdf"
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialAppInfoFakeDummyForL10nScript.php:4
+msgid "This app is an integration with pdf digital signature service"
+msgstr "Esta app es una integración con un servicio de firma digital"
+
+#. TRANSLATORS src/components/AdminSettings.vue:4
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:2
+msgid "Signature integration"
+msgstr "Integración de firma"
+
+#. TRANSLATORS src/components/AdminSettings.vue:10
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:4
+msgid "Signature API host"
+msgstr "Servidor del API de firma"
+
+#. TRANSLATORS src/components/AdminSettings.vue:15
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:6
+msgid "server url"
+msgstr "url del servidor"
+
+#. TRANSLATORS src/components/AdminSettings.vue:19
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:8
+msgid "Signature API key"
+msgstr "Clave del API de firma"
+
+#. TRANSLATORS src/components/AdminSettings.vue:24
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:10
+msgid "..."
+msgstr "..."
+
+#. TRANSLATORS src/components/AdminSettings.vue:33
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:12
+msgid "Save"
+msgstr "Guardar"
+
+#. TRANSLATORS src/components/AdminSettings.vue:83
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:14
+msgid "PdfSignature options saved"
+msgstr "Configuraciones de PdfSignature guardadas"
+
+#. TRANSLATORS src/components/AdminSettings.vue:87
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:16
+msgid "Failed to save PdfSignature options"
+msgstr "Error al guardar las configuraciones de PdfSignature"
+
+#. TRANSLATORS src/components/FileUpload.vue:108
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:18
+msgid "File type should be {type}"
+msgstr "El tipo de archivo debe ser {type}"
+
+#. TRANSLATORS src/components/SignerForm.vue:161
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:20
+msgid "Digital id password"
+msgstr "Contraseña del Id digital"
+
+#. TRANSLATORS src/components/SignerForm.vue:162
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:22
+msgid "Select page"
+msgstr "Seleccione la página"
+
+#. TRANSLATORS src/components/SignerForm.vue:163
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:24
+msgid "Select position"
+msgstr "Seleccione la posición"
+
+#. TRANSLATORS src/components/SignerForm.vue:164
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:26
+msgid "Select image"
+msgstr "Seleccione la imagen"
+
+#. TRANSLATORS src/components/SignerForm.vue:165
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:28
+msgid "No images in here"
+msgstr "No se encontraron imágenes"
+
+#. TRANSLATORS src/components/SignerForm.vue:166
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:30
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:32
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/src/filesplugin.js:49
+msgid "Sign document"
+msgstr "Firmar documento"
+
+#. TRANSLATORS src/components/SignerForm.vue:168
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:34
+msgid "Find a image on cloud..."
+msgstr "Buscar imagen en la nube"
+
+#. TRANSLATORS src/components/SignerForm.vue:169
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:36
+msgid "Pick your id digital..."
+msgstr "Seleccione su Id digital"
+
+#. TRANSLATORS src/components/SignerForm.vue:170
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:38
+msgid "Pick your logo..."
+msgstr "Seleccione su logo"
+
+#. TRANSLATORS src/components/SignerForm.vue:171
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:40
+msgid "Sign with logo"
+msgstr "Firmar con logo"
+
+#. TRANSLATORS src/components/SignerForm.vue:172
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:42
+msgid "Search image on computer"
+msgstr "Buscar la imagen en mi pc"
+
+#. TRANSLATORS src/components/SignerForm.vue:173
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:44
+msgid "* Move the box to desire place, then press doble click *"
+msgstr ""
+"* Desplace el recuadro al lugar deseado, entonces presione doble click *"
+
+#. TRANSLATORS src/components/SignerForm.vue:176
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:46
+msgid "First page"
+msgstr "Primera página"
+
+#. TRANSLATORS src/components/SignerForm.vue:177
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:48
+msgid "Last page"
+msgstr "Última página"
+
+#. TRANSLATORS src/components/SignerForm.vue:328
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:50
+msgid "File {name} has been signed"
+msgstr "El archivo {name} ha sido firmado"
+
+#. TRANSLATORS src/components/SignerForm.vue:333
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:52
+msgid "Certificate status is unknown"
+msgstr "El estado del certificado es desconocido"
+
+#. TRANSLATORS src/components/SignerForm.vue:336
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:54
+msgid "Certificate status is revoked"
+msgstr "El estado del certificado es revocado"
+
+#. TRANSLATORS src/components/SignerForm.vue:339
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:56
+msgid "Id digital password is incorrect"
+msgstr "La contraseña del Id digital es incorrecta"
+
+#. TRANSLATORS src/components/SignerForm.vue:342
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/specialVueFakeDummyForL10nScript.js:58
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/src/filesplugin.js:135
+msgid "An error occurred with signature API"
+msgstr "Ha ocurrido un error con el API de firma"
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/src/filesplugin.js:80
+msgid "Validate pdf signature"
+msgstr "Validar firmas de pdf"
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/src/filesplugin.js:103
+msgid "Signature Information"
+msgstr "Información de la firma"
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/src/filesplugin.js:108
+msgid "Signature "
+msgstr "Firma "
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/src/filesplugin.js:111
+msgid "Signer :  "
+msgstr "Firmante :  "
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/src/filesplugin.js:114
+msgid "Certificate info :  "
+msgstr "Información del certificado :  "
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/src/filesplugin.js:117
+msgid "Integrity :  "
+msgstr "Integridad :  "
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/src/filesplugin.js:120
+msgid "Signature time :  "
+msgstr "Fecha de la firma :  "
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/src/filesplugin.js:123
+msgid "Modification :  "
+msgstr "Modificación :  "
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/src/filesplugin.js:126
+msgid "Summary :  "
+msgstr "Resumen :  "
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/Federation/Exceptions/ActionNotSupportedException.php:43
+#, php-format
+msgid "Action \"%s\" not supported or implemented."
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/Federation/Exceptions/AuthenticationFailedException.php:43
+msgid "Authentication failed, wrong token or provider ID given"
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/Federation/Exceptions/BadRequestException.php:52
+#, php-format
+msgid ""
+"Parameters missing in order to complete the request. Missing Parameters: "
+"\"%s\""
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/Federation/Exceptions/ProviderAlreadyExistsException.php:47
+#, php-format
+msgid "ID \"%1$s\" already used by cloud federation provider \"%2$s\""
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/Federation/Exceptions/ProviderDoesNotExistsException.php:44
+#, php-format
+msgid "Cloud Federation Provider with ID: \"%s\" does not exist."
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/Files/LockNotAcquiredException.php:46
+#, php-format
+msgid "Could not obtain lock type %d on \"%s\"."
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/Files/StorageAuthException.php:40
+#, php-format
+msgid "Storage unauthorized. %s"
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/Files/StorageBadConfigException.php:40
+#, php-format
+msgid "Storage incomplete configuration. %s"
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/Files/StorageConnectionException.php:40
+#, php-format
+msgid "Storage connection error. %s"
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/Files/StorageNotAvailableException.php:60
+msgid "Storage is temporarily not available"
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/Files/StorageTimeoutException.php:40
+#, php-format
+msgid "Storage connection timeout. %s"
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/TextProcessing/FreePromptTaskType.php:56
+msgid "Free prompt"
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/TextProcessing/FreePromptTaskType.php:64
+msgid "Runs an arbitrary prompt through the language model."
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/TextProcessing/HeadlineTaskType.php:56
+msgid "Generate headline"
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/TextProcessing/HeadlineTaskType.php:64
+msgid "Generates a possible headline for a text."
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/TextProcessing/SummaryTaskType.php:56
+msgid "Summarize"
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/TextProcessing/SummaryTaskType.php:64
+msgid "Summarizes text by reducing its length without losing key information."
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/TextProcessing/TopicsTaskType.php:56
+msgid "Extract topics"
+msgstr ""
+
+#: /home/orelvys/Documents/next28/app/custom_apps/pdfsignature/vendor/nextcloud/ocp/OCP/TextProcessing/TopicsTaskType.php:64
+msgid "Extracts topics from a text and outputs them separated by commas."
+msgstr ""
